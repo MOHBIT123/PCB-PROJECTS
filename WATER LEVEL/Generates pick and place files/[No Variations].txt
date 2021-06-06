@@ -1,0 +1,29 @@
+Altium Designer Pick and Place Locations
+C:\Users\MohBit\Desktop\altium project\water level 2\Water Level Project\Project Outputs for Water Level Project\Generates pick and place files\[No Variations].txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       03/06/21
+Time:       02:53
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment          Layer    Footprint                          Center-X(mil) Center-Y(mil) Rotation Description                                      
+p3         "high power pad" TopLayer Diode                              118.110       -1417.323     0        ""                                               
+p2         "high power pad" TopLayer Diode                              354.331       -1417.323     0        ""                                               
+p1         "high power pad" TopLayer Diode                              590.551       -1417.323     0        ""                                               
+D1         D                TopLayer DIOAD1405W89L465D235               334.567       -118.110      180      "Diode 1KV 1A 2-Pin DO-41 T/R"                   
+D2         D                TopLayer DIOAD1405W89L465D235               1870.079      -1299.134     90       "Diode 1KV 1A 2-Pin DO-41 T/R"                   
+D3         D                TopLayer DIOAD1405W89L465D235               1673.228      -1289.449     90       "Diode 1KV 1A 2-Pin DO-41 T/R"                   
+IC1        74HC00N,652      TopLayer DIP762W53P254L1902H420Q14N         1742.126      -541.338      360      "NAND Gate 4-Element 2-IN CMOS 14-Pin PDIP Bulk" 
+J1         CTB5202_2        TopLayer SHDR2W100P0X500_1X2_1060X760X1020P 885.827       -236.220      360      Connector                                        
+J2         TB002-500-03BE   TopLayer SHDR3W100P0X500_1X3_1500X760X1000P 2194.882      -354.331      90       Connector                                        
+L1         LG               TopLayer LED_WP7113GT                       1269.685      -648.819      270      ""                                               
+Q1         2SC2120-Y_F,T_   TopLayer 2N3819                             907.539       -856.299      270      "Transistor BJT NPN"                             
+R1         330R             TopLayer RESAD1590W60L630D240               1112.205      -1283.858     90       RESISTORS                                        
+R2         330R             TopLayer RESAD1590W60L630D240               1289.370      -1283.858     90       RESISTORS                                        
+R3         10kR             TopLayer RESAD1590W60L630D240               1486.220      -1285.039     270      "RES 10K OHM 1/4W 5% AXIAL"                      
+RE1        Relay            TopLayer SRD                                344.488       -702.756      270      "Relay or Contactor"                             
+D4         D                TopLayer DIOAD1405W89L465D235               1338.661      -206.693      180      "Diode 1KV 1A 2-Pin DO-41 T/R"                   

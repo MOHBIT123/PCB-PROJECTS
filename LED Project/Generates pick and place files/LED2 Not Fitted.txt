@@ -1,0 +1,16 @@
+Altium Designer Pick and Place Locations
+C:\Users\MohBit\Desktop\altium project\LED project 1\LED Project\Project Outputs for LED Project\Generates pick and place files\LED2 Not Fitted.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       11/04/21
+Time:       22:56
+Revision:   Not in VersionControl
+Variant:    LED2 Not Fitted
+Units used: mil
+
+Designator Comment   Layer    Footprint Center-X(mil) Center-Y(mil) Rotation Description                                                                             
+R1         360R      TopLayer R0805     157.480       549.212       270      "Res Thick Film 0805 360 Ohm 1% 0.125W(1/8W) ±100ppm/C Molded SMD Automotive Paper T/R" 
+J1         1x2Header TopLayer HDR1X2    570.866       402.756       0        "Conn Wire to Board HDR 2 POS 2.54mm Solder ST Thru-Hole Bag"                           
+D1         GREEN     TopLayer LED0603   157.480       236.220       90       "LED GREEN ESS II SMD"                                                                  
